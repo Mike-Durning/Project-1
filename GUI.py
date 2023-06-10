@@ -105,7 +105,6 @@ def converted_timestamps():
             os.rename(old_name, mp4_file)
             shutil.move(mp4_file, destination)
 
-# DOES A FUCK TON
 def json_edit():  
     #timestamp = '2022-Dec-07 16-29-52.json'
     timestamp = timestamps['Name']
