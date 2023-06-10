@@ -1,3 +1,3 @@
 # Highlight Reel
 
-### This spaghetti code is my first ever project that I completed. This program is essentially a DIY highlight reel with modifiable parameters for how long before and after you want to record at a specific instance in time.
+### This spaghetti code is my first ever project that I completed. This program is essentially a DIY highlight reel with modifiable parameters for how long before and after you want to record at a specific instance in time. This was done while I attended WGU or Western Govenors University for Computer Science which I later left and changed to Data Science. My knowledge from WGU was primarily with data bases and my python knowledge was self taught which I am sure is reflected in the poor code structure. One down the line goal is to rewrite this project either in another language or just refactor using better practices.
